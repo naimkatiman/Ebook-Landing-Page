@@ -1,9 +1,9 @@
 # AI Wizardry eBook Landing Page
 
-![Screenshot 1: Hero Section](placeholder_for_hero_section_screenshot.png)
-![Screenshot 2: Book Section](placeholder_for_book_section_screenshot.png)
-![Screenshot 3: Author Section](placeholder_for_author_section_screenshot.png)
-![Screenshot 4: Reviews Section](placeholder_for_reviews_section_screenshot.png)
+![Screenshot 1: Hero Section](images/1.png)
+![Screenshot 2: Book Section](images/2.png)
+![Screenshot 3: Author Section](images/3.png)
+![Screenshot 4: Reviews Section](images/4.png)
 
 ## Description
 
@@ -47,15 +47,11 @@ This project is a landing page for the "AI Wizardry" eBook by Muhammad Naim Kati
 - Update the content in each section to match your specific eBook details.
 - Modify the color scheme and styles in the CSS to match your branding.
 
-## Author
-
-Muhammad Naim Katiman - CEO of Tibyan AI
 
 ## Contact
 
 - **Address**: Damai Residence, Chan Sow Lin, 57100 Kuala Lumpur
-- **Phone**: 011-6943232
-- **Email**: info@company.com
+- **Email**: naimkatiman@tibyan.ai
 
 ## Social Media
 
