@@ -1,3 +1,5 @@
+https://naimkatiman.github.io/Ebook-Landing-Page/
+
 # AI Wizardry eBook Landing Page
 
 ![Screenshot 1: Hero Section](images/1.png)
